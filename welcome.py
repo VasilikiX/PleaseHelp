@@ -2,6 +2,6 @@
 
 print("There is much here!")
 a = 2
-b = 4
+b = 75
 c = b - a
 print("The result is:", c) 
