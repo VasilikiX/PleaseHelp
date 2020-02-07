@@ -1,3 +1,3 @@
 #! /usr/bin/python3
-print("Whaaaat??")
+print("Something Newwwww")
 print("Test 2 what is this??")
